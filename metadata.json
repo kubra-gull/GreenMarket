@@ -1,0 +1,6 @@
+{
+  "name": "Green Market – Inventory Management System",
+  "description": "Real-time stock tracking, inventory transactions, low-stock alerts, and demand forecasting for grocery stores and green markets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
